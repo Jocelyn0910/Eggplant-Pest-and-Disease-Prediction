@@ -67,7 +67,7 @@ if uploaded_file is not None:
                 st.warning("⚠️ No metadata available for this class.")
         
         # Display the result image with all boxes drawn
-        st.image(cv2.cvtColor(img_result, cv2.COLOR_BGR2RGB), caption="Detection Result", use_column_width=True)
+        st.image(cv2.cvtColor(img_result, cv2.COLOR_BGR2RGB), caption="Detection Result", use_container_width=True)
 
     else:
         st.error("No pests or diseases detected. Try another image.")
