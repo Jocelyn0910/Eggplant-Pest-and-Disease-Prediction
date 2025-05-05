@@ -27,3 +27,4 @@ This Streamlit web app allows users to upload images of eggplant leaves and get 
 | `best_eggplant_model_3.pt`   | YOLOv11s trained model (pests and diseases)        |
 | `Eggplant_Cause_and_Remedy.json` | Metadata with cause and remedy per class   |
 | `requirements.txt`           | Python dependencies for the app                  |
+| `packages.txt`           | System-level dependencies (e.g., libgl1-mesa-glx)  |
