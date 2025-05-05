@@ -6,7 +6,7 @@ This Streamlit web app allows users to upload images of eggplant leaves and get 
 
 ## 🌐 Live App
 
-👉 [Click here to use the dashboard]([https://your-streamlit-link.streamlit.app/](https://eggplant-pest-and-disease-prediction-1.streamlit.app/))  
+👉 [Click here to use the dashboard]([https://your-streamlit-link.streamlit.app/](https://eggplant-pest-and-disease-prediction-1.streamlit.app/)  
 
 ---
 
