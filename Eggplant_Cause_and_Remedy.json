@@ -1,0 +1,30 @@
+{
+  "Powdery mildew of eggplant": {
+    "cause": "Fungal infection caused by poor ventilation and humidity.",
+    "remedy": "Apply sulfur-based fungicides and improve air circulation."
+  },
+  "Aphids": {
+    "cause": "Small insects sucking sap from leaves.",
+    "remedy": "Use neem oil or insecticidal soap."
+  },
+  "Cercospora leaf spot": {
+    "cause": "Fungal pathogen caused by wet leaf surfaces.",
+    "remedy": "Apply fungicide and practice crop rotation."
+  },
+  "Spider mite": {
+    "cause": "Tiny arachnids feeding on plant sap.",
+    "remedy": "Use miticide or predatory mites."
+  },
+  "Healthy": {
+    "cause": "No disease or pests detected.",
+    "remedy": "Continue regular monitoring and care."
+  },
+  "Leaf wilt": {
+    "cause": "Bacterial or fungal infection leading to plant dehydration.",
+    "remedy": "Remove infected plants and improve soil drainage."
+  },
+  "Phomopsis blight": {
+    "cause": "Fungus infecting stems and fruit.",
+    "remedy": "Use resistant varieties and fungicides."
+  }
+}
